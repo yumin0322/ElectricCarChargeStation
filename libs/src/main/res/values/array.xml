@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carInfo1Type_array">
+        <item>DC 콤보</item>
+        <item>DC 차데모</item>
+        <item>AC 3상</item>
+        <item>슈퍼차저</item>
+        <item>데스티네이션</item>
+        <item>완속</item>
+    </string-array>
+</resources>
